@@ -4,9 +4,11 @@
 
 A board game as a tool for collaboratively generating new ideas within and beyond the MDEF classroom.
 
-We wanted to create a practical and fun tool to help designers ideate their next collaboration or project. We also wanted to derive themes and practices from traditional non-western indigenous cultures that are commonly undervalued as 'indigenous', 'mythical', or 'non-scientific'. The objective was to bring them into the design process as tools that enhance creative ideation. 
-
-We started by sharing different belief systems, mythologies, indigenous practices, and visuals from each of our cultures. Through this exercise, we found many commonalities within our different cultural stories and designs. 
+We wanted to create a practical and fun tool to help designers ideate their next collaboration or project. We also wanted to derive themes and practices from traditional non-western indigenous cultures that are commonly undervalued as 'indigenous', 'mythical', or 'non-scientific'. The objective was to bring them into the design process as tools that enhance creative ideation. We started by sharing different belief systems, mythologies, indigenous practices, and visuals from each of our cultures. Through this exercise, we found many commonalities within our different cultural stories and designs. 
+  
+![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/alignment.jpg)
+![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/sketches.jpg)
+![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/patterns.jpg)
 
 Preliminary sketches of the board game were made, and it was discovered that there were many different directions we could head in. I think we spent a major share of time discussing the concept behind the game and how the game would be played before we moved onto prototyping. We spent the first two days working out the concept and the form on paper. On the third day, after a discussion with Dafni, who encouraged us to start making test prints, we made a test on Illustrator which was transferred into Rhino.
 
@@ -18,7 +20,12 @@ The 26 cards are divided into five categories of Machines, Triggers, Materials, 
 
 First, we prototyped a few of the individual “puzzle” pieces with different lengths and widths for the press and fit divots, since these were the parts that had to fit perfectly into one another. Even though we measured 0.1mm less than the width of the MDF board, we found the joints were still loose. From here, we went on to explore a few more pieces with varying widths, and discovered that the measurement we started with was correct. After introspection it was realized that the machine lens wasn’t focused during our first test.  
 
+![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/testpieces2.jpg)
+![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/testpieces1.jpg)
+
 Using this knowledge, we moved forward to modeling the entire game on Rhino. We did this overnight and arrived early on Friday morning to use the laser cutter. Upon setting up the files to print, we immediately noticed a few issues. First, the length of the longest piece in our design was longer than the length of the laser cutter bed. This meant we had to either redesign the piece so it can exist in two parts, which would take time that we didn’t have, or resize all the components so they would fit on the board. Because of our lack of time, we decided to resize all of the components, which made the press-fit joints useless. The second issue was that the engraving on the MDF board turned out much lighter than we expected and was barely visible.
+ 
+ ![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/finalpieces.jpg)
 
 
 Key Learnings: 
@@ -29,9 +36,5 @@ Key Learnings:
 
 
 
-
-![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/alignment.jpg)
-![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/sketches.jpg)
-![alt text](https://github.com/angel-cho/fabchallenge1/blob/main/images/patterns.jpg)
 
 
