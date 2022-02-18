@@ -45,6 +45,7 @@ Using this knowledge, we moved forward to modeling the entire game on Rhino. We 
 - Test and leave room for error. The longer the buffer, the better.
 - Always create laser cutting files with the size of the cutting bed in mind.
 - Build parametric joineries with Grasshopper whenever thickness of material is involved. 
+- We printed the text on one side of the MDF, then flipped them over to glue the patterned pieces on the back side. However, we neglected to flip the negative of the shape (the larger piece where the small shapes fit in) when we glued it onto the board and realized too late that the negatives were flipped and the shapes didn't fit into the board. 
 
 
 
